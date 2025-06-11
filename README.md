@@ -24,4 +24,10 @@
 ---
 
 
+| Tampilan Awal | Saat Bermain |
+|---------------|--------------|
+| ![Tampilan Awal](https://github.com/user-attachments/assets/9c9731be-d17e-4373-99ad-9e45e2cf532f) | ![Tampilan Saat Bermain](https://github.com/user-attachments/assets/f6690e0f-d253-4c7f-879b-3f672fb35d96) |
+
+---
+
 > Game ini membawa unsur horor khas lokal dengan sentuhan kartun yang menyenangkan. Rasakan sensasi melompat-lompat sebagai pocong di tengah hutan malam. Awas jangan sampai kena rintangan!
